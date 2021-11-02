@@ -1,1 +1,2 @@
-# js_pl
+#### JavaScript exercises to track progress
+- "ReactJS" documentation
